@@ -2,7 +2,7 @@
 
 Este projeto implementa um sistema simples de **criptografia e descriptografia** de arquivos, utilizando o algoritmo **AES (Advanced Encryption Standard)** no modo **CTR (Counter)**. O projeto foi desenvolvido para ilustrar como proteger arquivos sensíveis, criptografando-os de maneira segura e permitindo a restauração dos arquivos originais mediante a descriptografia.
 
-## OBS: Caso precise mais de um arquivo para criptograia e desccriptografia  use encriptdiversos o descriptdiversos###
+## OBS: Caso precise mais de um arquivo para criptograia e desccriptografia  use encriptdiversos,  descriptdiverso ###
 
 
 ## Funcionalidades
